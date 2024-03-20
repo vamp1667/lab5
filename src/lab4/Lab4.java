@@ -18,6 +18,8 @@ public class Lab4 {
         System.out.println("hello1");
          System.out.println("meaw");
            System.out.println("face");
+           System.out.println("mistake line");
+           
         // TODO code application logic here
     }
     
