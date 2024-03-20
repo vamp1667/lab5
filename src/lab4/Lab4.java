@@ -19,6 +19,7 @@ public class Lab4 {
          System.out.println("meaw");
            System.out.println("face");
              System.out.println("vetv line");
+              System.out.println("vetv line222222");
         // TODO code application logic here
     }
     
