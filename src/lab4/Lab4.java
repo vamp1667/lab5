@@ -17,6 +17,7 @@ public class Lab4 {
     public static void main(String[] args) {
         System.out.println("hello1");
          System.out.println("meaw");
+           System.out.println("face");
         // TODO code application logic here
     }
     
