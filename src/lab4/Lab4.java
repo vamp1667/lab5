@@ -15,11 +15,11 @@ public class Lab4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("zxczxcc");
-         System.out.println("zxczxzcxc");
-           System.out.println("zxczxczcx");
-             System.out.println("zxczxcx");
-              System.out.println("cxzzxcxz");
+        System.out.println("asdf");
+         System.out.println("sdfadsf");
+           System.out.println("fsadf");
+             System.out.println("fasdf");
+              System.out.println("sadf");
         // TODO code application logic here
     }
     
