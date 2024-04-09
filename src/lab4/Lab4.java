@@ -19,7 +19,7 @@ public class Lab4 {
          System.out.println("sdfadsf");
            System.out.println("fsadf");
              System.out.println("fasdf");
-              System.out.println("sadf");
+              System.out.println("ИЗМЕНИЛ ТЕБЕ А ТЫ ДАЖЕ НЕ ЗАМЕТИЛ");
         // TODO code application logic here
     }
     
